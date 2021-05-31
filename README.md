@@ -1,7 +1,10 @@
-# MinecraftTexturePacks
-A bunch of random mc packs or something, still new to making these but they're pretty fun
+# MinecraftDataPacks
 
-Anyways so currently I got a few packs that I've made:
--A pack which replaces Golden Carrots with Electrolez Paste
--A pack which replaces all wither releated stuff with pingu
--(IN DEVELOPMENT) A pack which replaces Piglins with Sanic
+Hey, so I made this repository I couple months ago but never posted anything so I'll datapacks instead cause that makes more sense
+========================================================================================================================================
+Currently I have 1 datapack: Deathrounds which I plan to do this with:
+
+Allow the user to customize the amount of deaths required before the round ends
+A reset score command
+
+Might do more packs in the future, who knows
