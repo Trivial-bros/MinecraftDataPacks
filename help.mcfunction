@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Welcome to DeathRounds by Trivial_bros!","bold":true,"color":"dark_red"},"\n",{"text":"---------------------------","bold":true,"strikethrough":true,"color":"black"},"\n",{"text":"Simple Datapack which ends a round once a certain amount of deaths from a player has been reached","bold":true,"underlined":true,"color":"white"}]
